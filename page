@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>natuRE science camp</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <div class="content">
+            <h1>WELCOME</h1>
+            <h2>科在心底的名字</h2>
+            <h4>洎燃至此，就讓我科在你心</h4>
+            <p>Our Instagram:</p>
+        </div>
+    </body>
+</html>
